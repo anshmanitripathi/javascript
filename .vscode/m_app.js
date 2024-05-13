@@ -4,6 +4,7 @@ let inp = document.querySelector("input");
 //     console.log(event);
 //     console.log("Key is pressed.")
 // })
+// 
 
 inp.addEventListener("keyup", function(event){
         console.log("code = ", event.code);

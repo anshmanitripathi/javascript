@@ -1,4 +1,5 @@
-// object literals in js
+// object literals in js 
+// Object Literals in JS
 
 
 let house = {
