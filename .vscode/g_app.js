@@ -9,6 +9,8 @@ let house = {
     fridge : 1
 }
 
+
+
 house.block = "D";
 house.chair = 5;
 
